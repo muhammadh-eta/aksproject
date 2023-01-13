@@ -17,13 +17,19 @@ Steps followed to execute the project:
   Includes cluster information which will be shown after the cluster is deployed.
 - main.tf
   Includes 3 resources groups and information of cluster with 2 worker nodes
--Links used for help: 
+
+- Links used for help: 
+  https://developer.hashicorp.com/terraform/tutorials/kubernetes/eks
+  https://www.microsoft.com/azure/partners/news/article/azure-kubernetes-service-workshop
+  https://learn.microsoft.com/en-us/azure/developer/terraform/create-k8s-cluster-with-tf-and-aks
 
 3) Manifest file for deployment
 - Azure voting app:
   Includes a front and Back end with Redis
   Using Load Balancer type service
+  
 - Link for the code: 
+  https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-portal?tabs=azure-cli
 
 4) Window power shell
 Steps to deploy the code:

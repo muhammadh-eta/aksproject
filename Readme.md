@@ -27,7 +27,7 @@ Steps followed to execute the project:
 - Azure voting app:
   Includes a front and Back end with Redis
   Using Load Balancer type service
-  
+
 - Link for the code: 
   https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-portal?tabs=azure-cli
 
